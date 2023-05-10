@@ -30,6 +30,7 @@
 		AD043DEC2A0BF48A00BF1BD8 /* LoginVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD043DEB2A0BF48A00BF1BD8 /* LoginVM.swift */; };
 		AD043DEE2A0BF49600BF1BD8 /* RegisterVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD043DED2A0BF49600BF1BD8 /* RegisterVM.swift */; };
 		AD043DF02A0BF4A900BF1BD8 /* ToDoListItemVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD043DEF2A0BF4A900BF1BD8 /* ToDoListItemVM.swift */; };
+		AD043DF22A0C168700BF1BD8 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD043DF12A0C168700BF1BD8 /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		AD043DEB2A0BF48A00BF1BD8 /* LoginVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVM.swift; sourceTree = "<group>"; };
 		AD043DED2A0BF49600BF1BD8 /* RegisterVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVM.swift; sourceTree = "<group>"; };
 		AD043DEF2A0BF4A900BF1BD8 /* ToDoListItemVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemVM.swift; sourceTree = "<group>"; };
+		AD043DF12A0C168700BF1BD8 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				AD043DD92A0BED3300BF1BD8 /* LoginView.swift */,
 				AD043DDB2A0BED5000BF1BD8 /* RegisterView.swift */,
 				AD043DDD2A0BF38100BF1BD8 /* ToDoListItemView.swift */,
+				AD043DF12A0C168700BF1BD8 /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD043DE62A0BF45500BF1BD8 /* ProfileVM .swift in Sources */,
+				AD043DF22A0C168700BF1BD8 /* HeaderView.swift in Sources */,
 				AD043DBB2A0BD91200BF1BD8 /* MainView.swift in Sources */,
 				AD043DEA2A0BF48100BF1BD8 /* NewItemVM.swift in Sources */,
 				AD043DEE2A0BF49600BF1BD8 /* RegisterVM.swift in Sources */,
